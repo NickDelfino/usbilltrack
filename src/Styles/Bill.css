@@ -1,0 +1,37 @@
+.bill-detail{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 700px) {
+    /* For desktop phones: */
+    .bill-detail-item{
+        width: 600px;
+        padding: 10px;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        background: white;
+        -moz-box-shadow:    2px 2px 2px 2px #ccc;
+        -webkit-box-shadow: 2px 2px 2px 2px #ccc;
+        box-shadow:         2px 2px 2px 2px #ccc;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    /* For mobile phones: */
+    .bill-detail-item{
+        width: 92%;
+        padding: 10px;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        background: white;
+        -moz-box-shadow:    2px 2px 2px 2px #ccc;
+        -webkit-box-shadow: 2px 2px 2px 2px #ccc;
+        box-shadow:         2px 2px 2px 2px #ccc;
+    }
+}

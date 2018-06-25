@@ -1,0 +1,20 @@
+.section-header{
+    border-top: solid thin #c1c1c1;
+    padding-top: 5px;
+    margin: 10px 0px 0px;
+    cursor: pointer;
+}
+
+.section-header i {
+    float: right;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.section{
+    opacity: 1.0;
+    box-sizing: border-box;
+    transition: height 500ms 0ms, opacity 500ms 500ms;
+}
