@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "create-react-class": "^15.6.3",
-    "next": "^3.2.3",
+    "next": "^11.1.0",
     "npm": "^6.1.0",
     "query-string": "^5.1.0",
     "react": "^15.6.2",
