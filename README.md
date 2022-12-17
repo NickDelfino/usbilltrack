@@ -13,8 +13,7 @@
 
 ## App Description
 
-This is a sample app using next.js and the [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/). An API key, which is free from ProPublica, is required to run this example. 
-The final result is an app called [usbilltrack](https://billtrack-gov.herokuapp.com/).
+This is a sample app using next.js and the [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/). An API key, which is free from ProPublica, is required to run this example.
 
 ## Questions, Comments, Concerns
 
