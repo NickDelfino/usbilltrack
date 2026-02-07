@@ -1,3 +1,5 @@
+DISCLAIMER: The congress api is no longer active so this sadly no longer works. Leaving the code up for reference.
+
 ## Table of Contents
 
 - [App Description](#app-description)
